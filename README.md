@@ -9,9 +9,9 @@
 </p>
 
 
-<p align="center">
-#### Tic_Tac_Toe Game  <video src="https://github.com/user-attachments/assets/84bdcf05-b070-4d5b-9180-a1c94ae4daad" width="240" height="300" alt="Tic1" />
-</p>
+<div align="center" >
+  <video src="https://github.com/user-attachments/assets/84bdcf05-b070-4d5b-9180-a1c94ae4daad"  />
+</div>
 
 
 
