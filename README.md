@@ -8,12 +8,8 @@
   <img src="https://github.com/RKS274/Tic-Tac-Toe/blob/master/Tic3.jpg" width="240" height="300" alt="Tic3">
 </p>
 
-<p align="center">
-  <a href="(https://github.com/RKS274/Tic-Tac-Toe/blob/master/Tic-Tac-Toe(Games%20Video).mp4)" target="_blank">Watch Video</a>
-</p>
 
-
-
+![giphy-downsized-large](https://github.com/user-attachments/assets/49d4e66f-8a89-4891-9700-dd4321210367)
 
 ## Features
 |SNo.|Feature|
