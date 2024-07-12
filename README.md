@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  <video src = "https://github.com/user-attachments/assets/84bdcf05-b070-4d5b-9180-a1c94ae4daad"/>
+  <video src = "https://github.com/user-attachments/assets/84bdcf05-b070-4d5b-9180-a1c94ae4daad" width="240" height="300" alt="Tic1" />
 </p>
 
 
