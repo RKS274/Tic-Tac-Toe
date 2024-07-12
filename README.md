@@ -2,6 +2,15 @@
 
 ### A simple Tic-Tac-Toe game built using HTML, CSS, and JavaScript. This project demonstrates the basic functionality of the game with an interactive UI.
 
+<p align="center">
+  <img src="https://github.com/RKS274/Tic-Tac-Toe/blob/master/Tic1.jpg" width="240" height="300" alt="Tic1"/>
+  <img src="https://github.com/RKS274/Tic-Tac-Toe/blob/master/Tic2.jpg" width="240" height="300" alt="Tic2"/>
+  <img src="https://github.com/RKS274/Tic-Tac-Toe/blob/master/Tic3.jpg" width="240" height="300" alt="Tic3">
+</p>
+
+
+
+
 ## Features
 |SNo.|Feature|
 |-|-|
