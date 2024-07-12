@@ -8,6 +8,10 @@
   <img src="https://github.com/RKS274/Tic-Tac-Toe/blob/master/Tic3.jpg" width="240" height="300" alt="Tic3">
 </p>
 
+<p align="center">
+  <a href="path/to/your-video-file.mp4" target="_blank">Watch Video</a>
+</p>
+
 
 
 
