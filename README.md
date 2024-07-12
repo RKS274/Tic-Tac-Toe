@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="path/to/your-video-file.mp4" target="_blank">Watch Video</a>
+  <a href="[path/to/your-video-file.mp4](https://github.com/RKS274/Tic-Tac-Toe/blob/master/Tic-Tac-Toe(Games%20Video).mp4)" target="_blank">Watch Video</a>
 </p>
 
 
