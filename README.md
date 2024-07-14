@@ -36,7 +36,7 @@
 ## Prerequisites & Installation
 |||
 |-|-|
-|1|A modern web browser (Chrome, Firefox, Edge, etc.)|
+|1|A modern web browser (Chrome, Edge, etc.)|
 |2|Clone the repository|
 |3|Navigate to the project directory|
 |4|Open index.html in your browser to start the game|
